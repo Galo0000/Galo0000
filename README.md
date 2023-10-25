@@ -14,7 +14,7 @@ Soy una persona perseverante, autodidacta y siempre con la idea de mejorar mis p
 
 ## Tecnologías y Habilidades
 
-- https://upload.wikimedia.org/wikipedia/en/thumb/b/b9/Nvidia_CUDA_Logo.jpg/220px-Nvidia_CUDA_Logo.jpg Tecnología 1
+- (./Icons/Cuda.png)
 - [Icono o Imagen de Tecnología] Tecnología 2
 - [Icono o Imagen de Tecnología] Tecnología 3
 - ...
