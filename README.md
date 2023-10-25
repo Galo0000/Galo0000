@@ -14,10 +14,8 @@ Soy una persona perseverante, autodidacta y siempre con la idea de mejorar mis p
 
 ## Tecnologías y Habilidades
 
-- <img src="https://github.com/Galo0000/Galo0000/blob/main/Icons/Cuda.png" data-canonical-src="https://github.com/Galo0000/Galo0000/blob/main/Icons/Cuda.png" width="50" height="50" />
-- [Icono o Imagen de Tecnología] Tecnología 2
-- [Icono o Imagen de Tecnología] Tecnología 3
-- ...
+- CUDA
+- NPL
 
 ## Proyectos Destacados
 
@@ -27,11 +25,6 @@ Soy una persona perseverante, autodidacta y siempre con la idea de mejorar mis p
 - Tecnologías utilizadas: [Tecnología 1], [Tecnología 2], ...
 - [Enlace al repositorio del proyecto]
 
-### [Nombre del Proyecto 2]
-
-- Breve descripción del proyecto.
-- Tecnologías utilizadas: [Tecnología 1], [Tecnología 2], ...
-- [Enlace al repositorio del proyecto]
 
 ## Contribuciones y Logros
 
