@@ -14,7 +14,7 @@ Soy una persona perseverante, autodidacta y siempre con la idea de mejorar mis p
 
 ## Tecnologías y Habilidades
 
-- ![Cuda!](https://github.com/Galo0000/Galo0000/blob/main/Icons/Cuda.png)
+- ![](https://github.com/Galo0000/Galo0000/blob/main/Icons/Cuda.png | width = 100)
 - [Icono o Imagen de Tecnología] Tecnología 2
 - [Icono o Imagen de Tecnología] Tecnología 3
 - ...
