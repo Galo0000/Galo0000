@@ -1,5 +1,4 @@
 <h1 align="center">Hola 👋, Soy Guillermo Gallo Garcia</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
 
 ## Biografía
 
@@ -24,7 +23,12 @@ Soy una persona perseverante, autodidacta y siempre con la idea de mejorar mis p
 
 - Este proyecto presenta una interfaz de usuario diseñada para interactuar con un modelo de recomendación. A través de esta interfaz, los usuarios pueden recibir recomendaciones basadas en diferentes criterios y parámetros que se ajusten a sus necesidades.
   
-- Tecnologías utilizadas: CUDA, NPL.
+### Tecnologías utilizadas:
+- CUDA: "Desarrollador especializado en CUDA, aprovechando la potencia de las GPUs para acelerar cálculos y aplicaciones de alto rendimiento. Apasionado por la programación paralela y la optimización de rendimiento en entornos GPU."
+
+- NLP (Procesamiento de Lenguaje Natural): "Entusiasta del Procesamiento de Lenguaje Natural (NLP), dedicado a explorar y crear soluciones que permitan a las máquinas comprender y generar lenguaje humano. Interesado en aplicaciones como chatbots, análisis de texto y traducción automática para mejorar la comunicación entre humanos y máquinas."
+
+- </a> </p>
   [Enlace al repositorio del proyecto](https://github.com/G08-PT02/google-yelp08)
 
 
