@@ -16,6 +16,8 @@ Soy una persona perseverante, autodidacta y siempre con la idea de mejorar mis p
 
 - CUDA
 - NPL
+- Deep learning
+- python
 
 ## Proyectos Destacados
 
