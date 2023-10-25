@@ -2,15 +2,19 @@
 
 ## Biografía
 
-Escribe una breve biografía que te describa y destaque tus intereses y experiencia en el campo de la tecnología.
+Soy una persona perseverante, autodidacta y siempre con la idea de mejorar mis proyectos. Me interesa mucho el campo del machine learning y deep learning, me impusla la idea de lo mucho que puede mejorar la vida de las personas. 
 
 ## Objetivos
 
-- Enumera tus objetivos profesionales y lo que esperas lograr en GitHub y en tu carrera.
+- Seguir creando proyectos
+- Aprender de otros proyectos y mejorar los mios
+- Dar a conocer mi experiencia
+- compartir mi codigo
+  
 
 ## Tecnologías y Habilidades
 
-- [Icono o Imagen de Tecnología] Tecnología 1
+- [https://upload.wikimedia.org/wikipedia/en/thumb/b/b9/Nvidia_CUDA_Logo.jpg/220px-Nvidia_CUDA_Logo.jpg)] Tecnología 1
 - [Icono o Imagen de Tecnología] Tecnología 2
 - [Icono o Imagen de Tecnología] Tecnología 3
 - ...
