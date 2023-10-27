@@ -2,7 +2,7 @@
 
 ## Biografía
 
-Soy una persona perseverante, autodidacta y siempre con la idea de mejorar mis proyectos. Me interesa mucho el campo del machine learning y deep learning, me impusla la idea de lo mucho que puede mejorar la vida de las personas. 
+Soy una persona perseverante y autodidacta, siempre enfocado en la mejora constante de mis proyectos. Mi pasión reside en el campo del machine learning y deep learning, donde veo un potencial extraordinario para mejorar la calidad de vida de las personas. Impulsado por la convicción de que la tecnología puede ser una fuerza transformadora, trabajo incansablemente para contribuir a soluciones innovadoras que tengan un impacto positivo en la sociedad. 
 
 ## Objetivos
 
