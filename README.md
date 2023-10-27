@@ -2,7 +2,7 @@
 
 ## Biografía
 
-Soy una persona perseverante y autodidacta, siempre enfocado en la mejora constante de mis proyectos. Mi pasión reside en el campo del machine learning y deep learning, donde veo un potencial extraordinario para mejorar la calidad de vida de las personas. Impulsado por la convicción de que la tecnología puede ser una fuerza transformadora, trabajo incansablemente para contribuir a soluciones innovadoras que tengan un impacto positivo en la sociedad. 
+Soy una persona perseverante y autodidacta, siempre enfocado en la mejora constante de mis proyectos. Mi pasión por el campo del machine learning y deep learning surge de mi profunda creencia en su capacidad para mejorar significativamente la vida de las personas. Esta fascinación me impulsa a explorar, aprender y crear constantemente, en busca de soluciones tecnológicas que puedan tener un impacto positivo en nuestro mundo. Para mí, el aprendizaje automático no es solo una disciplina, es una forma de contribuir al bienestar de la sociedad. 
 
 ## Objetivos
 
